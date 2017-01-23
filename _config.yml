@@ -41,3 +41,4 @@ JB :
     provider : google 
     google : 
         tracking_id : 'UA-8102379-3'
+theme: jekyll-theme-cayman
